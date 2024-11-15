@@ -1,8 +1,8 @@
 # TicTacToe 🎮
 <div style="display: flex; gap: 10px;">
-  <img src="https://img.icons8.com/color/80/000000/html-5.png" alt="HTML" width="40px"/>
-  <img src="https://img.icons8.com/color/80/000000/css3.png" alt="CSS" width="40px"/>
-  <img src="https://img.icons8.com/color/80/000000/javascript.png" alt="JavaScript" width="40px"/>
+  <img src="https://img.icons8.com/color/80/000000/html-5.png" alt="HTML" width="25px"/>
+  <img src="https://img.icons8.com/color/80/000000/css3.png" alt="CSS" width="25px"/>
+  <img src="https://img.icons8.com/color/80/000000/javascript.png" alt="JavaScript" width="25px"/>
 </div>
 
 A modern, interactive Tic Tac Toe game built with React, JavaScript, HTML, and CSS. Styled with Tailwind CSS for a sleek, responsive design. Powered by Vite for a fast and efficient development experience.
