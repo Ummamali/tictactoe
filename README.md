@@ -2,8 +2,6 @@
 
 A modern, interactive Tic Tac Toe game built with React, JavaScript, HTML, and CSS. Styled with Tailwind CSS for a sleek, responsive design. Powered by Vite for a fast and efficient development experience.
 
-![Project Image](/public/projectPreview.png)
-
 ---
 
 ## 🚀 Features
