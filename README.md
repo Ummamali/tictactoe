@@ -1,9 +1,4 @@
 # TicTacToe 🎮
-<div style="display: flex; gap: 10px;">
-  <img src="https://img.icons8.com/color/80/000000/html-5.png" alt="HTML" width="25px"/>
-  <img src="https://img.icons8.com/color/80/000000/css3.png" alt="CSS" width="25px"/>
-  <img src="https://img.icons8.com/color/80/000000/javascript.png" alt="JavaScript" width="25px"/>
-</div>
 
 A modern, interactive Tic Tac Toe game built with React, JavaScript, HTML, and CSS. Styled with Tailwind CSS for a sleek, responsive design. Powered by Vite for a fast and efficient development experience.
 
@@ -19,6 +14,13 @@ A modern, interactive Tic Tac Toe game built with React, JavaScript, HTML, and C
 ---
 
 ## 🛠️ Technologies Used
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://img.icons8.com/color/80/000000/html-5.png" alt="HTML" width="35px"/>
+  <img src="https://img.icons8.com/color/80/000000/css3.png" alt="CSS" width="35px"/>
+  <img src="https://img.icons8.com/color/80/000000/javascript.png" alt="JavaScript" width="35px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="35px"/>
+</div>
 
 - **Frontend:** React, JavaScript, HTML, CSS
 - **Styling:** Tailwind CSS
