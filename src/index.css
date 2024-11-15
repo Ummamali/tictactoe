@@ -1,4 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Caprasimo&family=Roboto+Slab:wght@400;700&display=swap");
+
 /* tailwindcss styles */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+button:hover {
+  cursor: pointer;
+}
+button:disabled:hover {
+  cursor: auto;
+}
+
+input:focus {
+  outline: none;
+}
+
+/* own utility classes */
+
+.font-caprasimo {
+  font-family: "Caprasimo", serif;
+}

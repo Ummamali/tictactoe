@@ -1,0 +1,18 @@
+/* This stylesheet is for GameGrid component  */
+
+.game-grid {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  justify-content: center;
+  align-content: center;
+  gap: 1rem;
+  padding: 1.5rem 1rem;
+}
+
+.game-grid .box {
+  @apply w-24 h-24 bg-slate-50/20 shadow-sm text-center text-slate-200/60 text-5xl font-capra enabled:hover:bg-slate-50/30 transition-colors;
+}
+
+.game-grid .box.won {
+  @apply bg-orange-300/40;
+}
